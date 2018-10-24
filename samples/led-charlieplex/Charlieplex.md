@@ -20,7 +20,7 @@ The following pins
 | LED2 | 0 | 1 | X |
 | LED3 | X | 1 | 0 |
 | LED4 | X | 0 | 1 |
-| LED5 | 1 | X | 0 | 
+| LED5 | 1 | X | 0 |
 | LED6 | 0 | X | 1 |
 
 ## Support for 12 pins
